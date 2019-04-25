@@ -1,3 +1,4 @@
 hello this is the first strike from Hua Xia
 and this is the second strike from Heaven
 git has mutable index called stage
+git stage 
